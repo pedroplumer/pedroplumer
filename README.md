@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **NextJS**, **GraphQL** 
 - 💬 Ask me about **JS, ReactJS and Web in general**
 - 📫 How to reach me: [pedroplumer@gmail.com](mailto:pedroplumer@gmail.com)
-- ✍️ &nbsp; Pursuing Music production and Philosophy studies as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Music production and Philosophy studies as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
