@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on a personal [News Page](https://github.com/pedroplumer/React-News-Site)
+- 🔭 I’m currently working on Hinge health
 - 🌱 I’m currently learning **NextJS**, **GraphQL** 
 - 💬 Ask me about **JS, ReactJS and Web in general**
 - 📫 How to reach me: [pedroplumer@gmail.com](mailto:pedroplumer@gmail.com)
